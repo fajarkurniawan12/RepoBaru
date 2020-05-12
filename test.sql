@@ -1,1 +1,0 @@
-select * from product where sales <= 5000;
